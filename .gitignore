@@ -1,0 +1,18 @@
+# KiCad backup files
+*-backup
+*-bak
+
+# KiCad auto save
+*.kicad_prl
+*.kicad_pcb-bak
+
+# system files
+.DS_Store
+Thumbs.db
+
+# build artifacts
+*.log
+*.tmp
+
+# IDE files
+.vscode/
